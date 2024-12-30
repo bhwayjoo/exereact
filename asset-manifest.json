@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/exereact/static/css/main.b2b44392.css",
+    "main.js": "/exereact/static/js/main.38310cf0.js",
+    "index.html": "/exereact/index.html",
+    "main.b2b44392.css.map": "/exereact/static/css/main.b2b44392.css.map",
+    "main.38310cf0.js.map": "/exereact/static/js/main.38310cf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2b44392.css",
+    "static/js/main.38310cf0.js"
+  ]
+}
